@@ -1,1 +1,2 @@
 ['-p', '.git', '.gitignore', 'config', 'data', 'modules', 'python', 'secret.txt', 'status', 'Trojan', 'trojan.py']
+['-p', '.git', '.gitignore', 'config', 'data', 'modules', 'python', 'secret.txt', 'status', 'Trojan', 'trojan.py']
